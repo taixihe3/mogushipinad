@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taixihe3.github.io/mogushipinad/sitemap.xml
